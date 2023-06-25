@@ -103,7 +103,7 @@ shall be binding on the Clearing Participant and any persons claiming
 through the Clearing Participant and their respective successors and
 assigns.
 
-# 602\. Right of Appeal.
+# 602\. Right of Appeal
 
 A Clearing Participant suspended pursuant to Rule 601 shall be entitled,
 upon request within five Business Days after the date of its suspension,
@@ -121,13 +121,13 @@ procedure:
     
     (E). A record shall be kept of any hearing held pursuant hereto. The cost of the transcript may, in the discretion of the body holding the hearing, be charged in whole or in part to the suspended Clearing Participant in the event that the suspension is finally affirmed.
 
-# 603\. Sanctions from Disciplinary Proceedings.
+# 603\. Sanctions from Disciplinary Proceedings
 
     (A). Manifold Finance may censure, suspend, expel or limit the activities, functions or operations of, and/or impose a fine on (each a “sanction”), a Clearing Participant for (i) a violation of the Rules or its agreements with Manifold Finance or the Exchange, (ii) any neglect or refusal by such Clearing Participant to comply with any applicable order or direction of Manifold Finance or the Exchange, (iii) any error, delay or other conduct that materially and adversely affects the operations of Manifold Finance or Manifold Finance Exchange, (iv) a violation of the rules of the Exchange, or (v) a failure to provide adequate personnel or facilities, where applicable, for its transactions with Manifold Finance.
     
     (B). Manifold Finance shall provide prompt notice to the CFTC of any action taken in accordance with this Rule 603.
 
-# 604\. Procedures for Disciplinary Proceedings.
+# 604\. Procedures for Disciplinary Proceedings
 
     (A). Before any sanction is imposed pursuant to Rule 603, Manifold Finance shall furnish the person against whom the sanction is sought to be imposed (“Respondent”) with a concise written statement of the charges against the Respondent. The Respondent shall have ten Business Days after the service of such statement to file with Manifold Finance a written answer thereto. The answer shall admit or deny each allegation contained in the statement of charges and may also contain any defense which the Respondent wishes to submit. Allegations contained in the statement of charges which are not denied in the answer shall be deemed to have been admitted, and any defense not raised in the answer shall be deemed to have been waived. If an answer is not filed within the time prescribed above or any extension thereof granted pursuant to paragraph (d) of this Rule, the allegations contained in the statement of charges shall be deemed to have been admitted, and the sanction specified in the final request shall be imposed without further proceedings and the Respondent shall be notified thereof in writing. If an answer is timely filed, Manifold Finance shall (unless the Respondent and Manifold Finance shall have stipulated to the imposition of an agreed sanction) schedule a hearing before the Disciplinary Panel. The Respondent shall be given not less than  three Business Days advance notice of the place and time of such hearing. At the hearing, the Respondent shall be afforded the opportunity to be heard and to present evidence in its behalf and may be represented by counsel. A record of the hearing shall be prepared and the cost of the transcript may, in the discretion of the Disciplinary Panel, be charged in whole or in part to the Respondent in the event any sanction is imposed on the Respondent. As soon as practicable after the conclusion of the hearing, the Disciplinary Panel shall furnish the Respondent and the Board with a written statement of its decision. If the decision shall have been to impose a disciplinary sanction, the written statement shall set forth
     
@@ -151,7 +151,7 @@ procedure:
     
     (F). The summary suspension of a Clearing Participant pursuant to Rule 601 shall not be deemed to be a “sanction” within the meaning of this Rule, and the provisions of this Rule shall be inapplicable to any such summary suspension.
 
-# 605\. Discipline by Other Self-Regulatory Organizations.
+# 605\. Discipline by Other Self-Regulatory Organizations
 
     (A). At the discretion of the Clearinghouse, any suspected violation of these Rules may be referred to the enforcement staff of the Exchange.
     

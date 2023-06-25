@@ -114,7 +114,7 @@ APPLICABLE LAW AND GOVERNMENTAL REGULATIONS, OTHER PROVISIONS OF THE
 RULES, ADDITIONAL AGREEMENTS WITH THE CLEARING PARTICIPANT OR ANY OTHER
 SOURCE.
 
-# 502\. Clearing Participant Default.
+# 502\. Clearing Participant Default
 
     (A). If a Clearing Participant is in Default, Margin held with respect to such Clearing Participant’s Member Property Accounts, and any other of such Clearing Participant’s assets held by, pledged to or otherwise available to Manifold Finance, may be applied by Manifold Finance to discharge the Obligations of such Clearing Participant to Manifold Finance (including any costs and expenses associated with the liquidation, transfer or management of Contracts held in or for the Member Property Accounts of such Clearing Participant, and any fees, assessments  or fines imposed by Manifold Finance on such Clearing Participant), and Manifold Finance may cause all Contracts of such Clearing Participant (whether or not carried in a Customer Account) to be closed or offset, transferred to any other Clearing Participant, or otherwise resolved as provided in these Rules.
     

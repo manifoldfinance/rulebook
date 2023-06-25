@@ -472,7 +472,7 @@ through the EVM.
 Illinois, California, New York, and Delaware. Interpretation deteremined
 by parties.
 
-## In these Rules, unless the context clearly requires otherwise,
+## In these Rules, unless the context clearly requires otherwise
 
     (a) words in the singular include the plural and words in the plural include the singular,
     (b) any gender includes each other gender,
