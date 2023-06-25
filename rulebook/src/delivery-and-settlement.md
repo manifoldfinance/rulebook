@@ -2,7 +2,7 @@
    - https://spdx.org/licenses/CC-BY-NC-ND-2.5.html 
    - (C) 2023 Manifold Finance, Inc. -->
 
-# Submission of Trades.
+# Submission of Trades
 
 (A). Upon matching of a trade effected on or pursuant to the rules of
 the Exchange, the Exchange shall promptly submit to Manifold Finance
@@ -23,7 +23,7 @@ eligible for clearing by Manifold Finance, Manifold Finance
 may reject such trade and notify the Exchange of such rejection, setting
 forth the basis of such objection.
 
-# 402\. Clearance and Substitution.
+# 402\. Clearance and Substitution
 
 (a) The submission of a Contract (Smart Contract or a Normal Contract)
 to Manifold Finance by or on behalf of the buying and selling
@@ -133,7 +133,7 @@ on such investments and interest on such deposits shall belong to
 Manifold Finance and may be withdrawn from the account holding the
 Margin and deposited with the general funds of Manifold Finance.
 
-# 404\. Offset and Settlement.
+# 404\. Offset and Settlement
 
 (a) Where, as the result of novation under Rule 402, a Clearing
 Participant has bought and sold a Contract on or subject to the Rules of
@@ -154,13 +154,13 @@ not be offset under this Rule 405 against Contracts designated by the
 Clearing Participant as for the Clearing Participant’s own Member
 Property Account.
 
-# 405\. Approved Depository Institutions.
+# 405\. Approved Depository Institutions
 
 A bank, trust company or other depository that meets such financial and
 other requirements of Manifold Finance may be designated by
 Manifold Finance as an Approved Depository Institution.
 
-# 406\. Statement of Trades and Contracts.
+# 406\. Statement of Trades and Contracts
 
 Manifold Finance shall in the manner and at the time that it
 determines from time to time make available to a Clearing Participant an
@@ -170,7 +170,7 @@ Manifold Finance. Any amounts the Clearing Participant has posted
 to Manifold Finance under Rule 403 shall be indicated on this
 statement
 
-# 409\. Settlement Prices.
+# 409\. Settlement Prices
 
 As used in the Rules, the term “Settlement Price” means the settlement
 price for a Contract for which positions remain open, as determined,
@@ -197,7 +197,7 @@ Clearinghouse’s custody at the inception of the trade. Deliveries will
 occur on the Clearinghouse’s books and records unless otherwise
 specified in the Exchange contract specifications.
 
-# 411\. Reporting.
+# 411\. Reporting
 
 Network and Clearing Participants shall make such reports in respect of
 trades, Smart Contracts, Normal Contracts settlements and deliveries as

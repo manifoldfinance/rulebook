@@ -2,7 +2,7 @@
    - https://spdx.org/licenses/CC-BY-NC-ND-2.5.html 
    - (C) 2020 Manifold Finance, Inc. -->
 
-# General Eligibility Requirements of Network and Clearing Participants.
+# General Eligibility Requirements of Network and Clearing Participants
 
 (a) The Network and Clearinghouse imposes eligibility requirements for
 Network and Clearing Participants, and may modify these requirements in
@@ -53,7 +53,7 @@ Manifold Finance for purposes of depositing and withdrawing funds
 or Collateral at Manifold Finance denominated in *USD, JPY, CAD,
 EURO, or GBP*.
 
-# 303\. Duties and Responsibilities of Network & Clearing Participants.
+# 303\. Duties and Responsibilities of Network & Clearing Participants
 
 1.  Any Person initiating or executing a transaction in Contracts (Both
     Smart and Normal Contracts) to be cleared by Manifold Finance,
@@ -132,7 +132,7 @@ EURO, or GBP*.
     
         (vii) Ensuring that all transactions are finalized within 10 blocks.
 
-# 304\. Authorized Representative.
+# 304\. Authorized Representative
 
 (a) Each Network and Clearing Participant shall designate one or more
 Authorized Representatives to sign all instruments, correct errors,
@@ -175,7 +175,7 @@ whose designation as an Authorized Representative has been terminated or
 suspended shall occur as if the Authorized Representative were still
 registered as such.
 
-# 306\. Notices Required of Network and Clearing Participants.
+# 306\. Notices Required of Network and Clearing Participants
 
 (A). Each Network and Clearing Participant, if applicable, shall
 immediately notify Manifold Finance, orally and in writing, of:
@@ -299,7 +299,7 @@ constitutes notice of a Default, Manifold Finance may take any or
 all of the actions as permitted by these Rules, including Rules 502 and
 601.
 
-# 307\. Omnibus and Carrying Broker Accounts.
+# 307\. Omnibus and Carrying Broker Accounts
 
 (A). Each FCM Clearing Participant shall maintain a complete list of all
 omnibus and carrying broker accounts maintained on its books. Such list
@@ -315,7 +315,7 @@ in such omnibus account.
 another FCM Clearing Participant shall also bear financial
 responsibility to Manifold Finance for that omnibus account.
 
-# 308\. Financial Requirements of FCM Clearing Participants.
+# 308\. Financial Requirements of FCM Clearing Participants
 
 <div class="important">
 
@@ -325,7 +325,7 @@ must be domiciled in the State of [TBD].
 
 </div>
 
-# 309\. Customer Accounts and Member Property Accounts.
+# 309\. Customer Accounts and Member Property Accounts
 
 (A). All Customer funds deposited by an FCM Clearing Participant with
 Manifold Finance on behalf of Customers protected by CFTC
@@ -348,7 +348,7 @@ transfer, from the Customer Account of one FCM Clearing Participant to
 the Customer Account of another FCM Clearing Participant, all or a
 portion of such Customer’s Contracts, in accordance with Rule 408(a)(i).
 
-# 310\. General Record-keeping and Reporting Requirements for Clearing Participants.
+# 310\. General Record-keeping and Reporting Requirements for Clearing Participants
 
 (A). Each Clearing Participant shall prepare, maintain and keep current
 those books and records required by these Rules, the CEA and the CFTC
@@ -413,7 +413,7 @@ requirement by participating in an industry-wide testing event in which
 Manifold Finance, Network Participants or the Exchange also
 participates.
 
-# 312\. Fees.
+# 312\. Fees
 
   - Manifold Finance shall have the right to invoice clients and
     accept payment via check, wire, ACH, Cryptocurrency, Fungible Tokens
@@ -424,7 +424,7 @@ participates.
     if applicable, to debit the Account maintained by an Clearing
     Participant to offset any amounts due the Clearinghouse.
 
-# 313\. Segregation of Customer Funds and Assets for FCM Clearing Participants.
+# 313\. Segregation of Customer Funds and Assets for FCM Clearing Participants
 
   - Each FCM Clearing Participant must comply with the requirements of
     the CEA and CFTC Regulations regarding segregation of customer funds
