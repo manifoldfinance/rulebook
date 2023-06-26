@@ -1,14 +1,23 @@
 {
-  "name": "rulebook",
-  "version": "1.0.0",
-  "description": "To begin with, a pair of definitions: Credit is the promise to pay money, i.e., debt. Money is that contrivance which discharges debt.",
-  "main": "index.js",
+  "name": "manifold-venue-rulebook",
+  "version": "0.0.1",
+  "description": "Draft Rulebook and Specifications for Forward Contract Market for Blockspace and Transaction Inclusion",
+  "files": [
+    "rulebook/*/**"
+  ],
   "scripts": {
-    "lint:md": "markdownlint \"**/*.md\" \".github/**/*.md\""
+    "lint:md": "npx markdownlint \"**/*.md\" \".github/**/*.md\"",
+    "fix:md": "npx markdownlint \"**/*.md\" --ignore node_modules --fix"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "CFTC",
+    "Rulebook",
+    "Commodities",
+    "Ethereum",
+    "Blockspace"
+  ],
+  "author": "SEE AUTHORS",
+  "license": "SEE LICENSE IN LICENSE",
   "devDependencies": {
     "markdownlint": "^0.29.0",
     "markdownlint-cli": "^0.35.0",
