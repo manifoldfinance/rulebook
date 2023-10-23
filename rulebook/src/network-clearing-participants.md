@@ -4,27 +4,26 @@
 
 # 300. General Eligibility Requirements of Network and Clearing Participants
 
-- [300. General Eligibility Requirements of Network and Clearing Participants](#300-general-eligibility-requirements-of-network-and-clearing-participants)
-  * [301. Applicant Qualifications and Requirements](#301-applicant-qualifications-and-requirements)
-  * [302. Document Retention Policies](#302-document-retention-policies)
-  * [303. Duties and Responsibilities of Network & Clearing Participants](#303-duties-and-responsibilities-of-network---clearing-participants)
-  * [304. Authorized Representative](#304-authorized-representative)
-  * [305. Section Reserved](#305-section-reserved)
-  * [306. Notices Required of Network and Clearing Participants](#306-notices-required-of-network-and-clearing-participants)
-  * [307. Omnibus and Carrying Broker Accounts](#307-omnibus-and-carrying-broker-accounts)
-  * [308. Financial Requirements of Manifold Finance Clearing Participants](#308-financial-requirements-of-manifold-finance-clearing-participants)
-  * [309. Customer Accounts and Member Property Accounts](#309-customer-accounts-and-member-property-accounts)
-  * [310. General Record-keeping and Reporting Requirements for Clearing Participants](#310-general-record-keeping-and-reporting-requirements-for-clearing-participants)
-  * [311. Disaster Recovery and Business Continuity Manifold Finance Clearing Participants](#311-disaster-recovery-and-business-continuity-manifold-finance-clearing-participants)
-  * [312. Fees](#312-fees)
-  * [313. Segregation of Customer Funds and Assets for Manifold Finance Clearing Participants](#313-segregation-of-customer-funds-and-assets-for-manifold-finance-clearing-participants)
+-   [300. General Eligibility Requirements of Network and Clearing Participants](#300-general-eligibility-requirements-of-network-and-clearing-participants)
+    -   [301. Applicant Qualifications and Requirements](#301-applicant-qualifications-and-requirements)
+    -   [302. Document Retention Policies](#302-document-retention-policies)
+    -   [303. Duties and Responsibilities of Network & Clearing Participants](#303-duties-and-responsibilities-of-network---clearing-participants)
+    -   [304. Authorized Representative](#304-authorized-representative)
+    -   [305. Section Reserved](#305-section-reserved)
+    -   [306. Notices Required of Network and Clearing Participants](#306-notices-required-of-network-and-clearing-participants)
+    -   [307. Omnibus and Carrying Broker Accounts](#307-omnibus-and-carrying-broker-accounts)
+    -   [308. Financial Requirements of Manifold Finance Clearing Participants](#308-financial-requirements-of-manifold-finance-clearing-participants)
+    -   [309. Customer Accounts and Member Property Accounts](#309-customer-accounts-and-member-property-accounts)
+    -   [310. General Record-keeping and Reporting Requirements for Clearing Participants](#310-general-record-keeping-and-reporting-requirements-for-clearing-participants)
+    -   [311. Disaster Recovery and Business Continuity Manifold Finance Clearing Participants](#311-disaster-recovery-and-business-continuity-manifold-finance-clearing-participants)
+    -   [312. Fees](#312-fees)
+    -   [313. Segregation of Customer Funds and Assets for Manifold Finance Clearing Participants](#313-segregation-of-customer-funds-and-assets-for-manifold-finance-clearing-participants)
 
 A. The Network and Clearinghouse imposes eligibility requirements for Network and Clearing Participants, and may modify these requirements in order to maintain an orderly clearing process and mitigate risk to the Clearinghouse and other Clearing Participants.
 
 B. All Network and/or Clearing Participants and prospective Clearing Participants who wish to enter into a Clearing Participant Agreement will be subject to Clearinghouse Anti-Money Laundering policies and procedures, designed to achieve and monitor compliance with the requirements of the Bank Secrecy Act and the regulations promulgated thereunder, or otherwise, by the Department of the Treasury or other federal agencies and bureaus.
 
 C. All Network and/or Clearing Participants are subject to all Rules, as well as all rules of the Exchange, whether contained in the Exchange Rulebook, or in Exchange guidance or notices.
-
 
 ## 301. Applicant Qualifications and Requirements
 
@@ -34,11 +33,11 @@ Applicant must not be subject to any economic or trade sanctions programs admini
 
 It shall enter into a Clearing Participant Agreement with Manifold Finance Clearing, pursuant to which it shall agree, among other things, to:
 
-  1: abide by all Manifold Finance Rules and to cooperate in their enforcement;
+1: abide by all Manifold Finance Rules and to cooperate in their enforcement;
 
-  2: be responsible, even after it has withdrawn as a Clearing Participant, for any violations of Manifold Finance Rules committed by it while it was a Clearing Participant; and
+2: be responsible, even after it has withdrawn as a Clearing Participant, for any violations of Manifold Finance Rules committed by it while it was a Clearing Participant; and
 
-  3: continue to meet all requirements applicable to Clearing Participants, including all financial requirements provided by these Rules;
+3: continue to meet all requirements applicable to Clearing Participants, including all financial requirements provided by these Rules;
 
 It shall have received all necessary approvals and consents from all applicable regulatory authorities and Government Agencies to permit it to conduct the business of a Clearing Participant;
 
@@ -46,11 +45,11 @@ Applicant must have one or more accounts that has been approved by Manifold Fina
 
 ## 302. Document Retention Policies
 
-_See our Legal Document Retention Policies as defined by the requirements by the NYFDS_. 
+_See our Legal Document Retention Policies as defined by the requirements by the NYFDS_.
 
 ## 303. Duties and Responsibilities of Network & Clearing Participants
 
-1. Any Person initiating or executing a transaction in Contracts (Both Smart and Normal Contracts) to be cleared by Manifold Finance, and any Person for whose benefit such a transaction has been initiated or executed, expressly consents to the jurisdiction of the Clearinghouse and agrees to be bound by and comply with the Rules of the Manifold Finance in relation to such transactions and Contracts, including, but not limited to, rules requiring cooperation and participation in investigatory and disciplinary processes. Each Network and Clearing Participant shall:
+1.  Any Person initiating or executing a transaction in Contracts (Both Smart and Normal Contracts) to be cleared by Manifold Finance, and any Person for whose benefit such a transaction has been initiated or executed, expressly consents to the jurisdiction of the Clearinghouse and agrees to be bound by and comply with the Rules of the Manifold Finance in relation to such transactions and Contracts, including, but not limited to, rules requiring cooperation and participation in investigatory and disciplinary processes. Each Network and Clearing Participant shall:
 
     A. Comply with and act in a manner consistent with, and cause its Authorized Representatives and employees to comply with an act in a manner consistent with, the Rules;
 

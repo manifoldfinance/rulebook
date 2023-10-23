@@ -62,10 +62,7 @@ Unless the context clearly requires otherwise, the following terms shall have th
 
 Manifold Finance means Manifold Finance Corporation a Delaware C-Corporation.
 
-Manifold Finance, Incorporated
-2810 N Church St
-PMB 138571
-Wilmington, Delaware 19802-4447 US
+Manifold Finance, Incorporated 2810 N Church St PMB 138571 Wilmington, Delaware 19802-4447 US
 
 "Exchange" means (TBD). and its respective successors.
 
@@ -105,9 +102,7 @@ Wilmington, Delaware 19802-4447 US
 
 **Financial responsibility \*\*means the financial reserves (e.g., insurance policies or surety bonds) sufficient to satisfy liability amounts set forth in this subpart covering public liability.**
 
-
 **Insurance premium** means the monetary sum an insured pays an insurer for acceptance of liability for public liability claims made against the insured.
-
 
 **Property damage** means damage to or loss of use of tangible property. Public liability means liability for bodily injury or property damage and includes liability for environmental restoration.
 
@@ -179,7 +174,6 @@ Ethereum ($ETH), $BOL, or any Smart-Contract dervied Asset or UTXO asset.
 **Fungible Tokens**
 
 **Futures Commission Merchant** or _FCM_ shall have the meaning set forth in CFTC Regulation 1.3(p).
-
 
 **Government Agency** means the CFTC and/or any other governmental agency or department regulating the activities of a Clearing Participant.
 

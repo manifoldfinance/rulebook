@@ -4,12 +4,12 @@
 
 # 600. Suspension and Disciplinary Proceedings
 
-- [600. Suspension and Disciplinary Proceedings](#600-suspension-and-disciplinary-proceedings)
-  * [601. **General**](#601---general--)
-  * [602. Right of Appeal](#602-right-of-appeal)
-  * [603. Sanctions from Disciplinary Proceedings](#603-sanctions-from-disciplinary-proceedings)
-  * [604. Procedures for Disciplinary Proceedings](#604-procedures-for-disciplinary-proceedings)
-  * [605. Discipline by Other Self-Regulatory Organizations](#605-discipline-by-other-self-regulatory-organizations)
+-   [600. Suspension and Disciplinary Proceedings](#600-suspension-and-disciplinary-proceedings)
+    -   [601. **General**](#601---general--)
+    -   [602. Right of Appeal](#602-right-of-appeal)
+    -   [603. Sanctions from Disciplinary Proceedings](#603-sanctions-from-disciplinary-proceedings)
+    -   [604. Procedures for Disciplinary Proceedings](#604-procedures-for-disciplinary-proceedings)
+    -   [605. Discipline by Other Self-Regulatory Organizations](#605-discipline-by-other-self-regulatory-organizations)
 
 ## 601. **General**
 
