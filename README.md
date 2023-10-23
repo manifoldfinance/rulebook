@@ -2,7 +2,7 @@
 
 > Licensed under Creative Commons Attribution-NonCommercial-NoDerivs 2.5
 
-## Prelude on *Money*
+## Prelude on _Money_
 
 To begin with, a pair of definitions: Credit is the promise to pay money, i.e., debt. Money is that contrivance which discharges debt.
 
@@ -13,4 +13,3 @@ The age of paper money dawned in 1971. To the post-1971 dollar, value is imparte
 Take pause at the word "note." A note is a credit instrument, a promise to pay. Yet, under law, Federal Reserve notes are money. What is the nature of this promise? The truth is that it is no promise at all, but an artifact from the era of convertibility. Until 1933, $20.67 could be converted into, or redeemed for, one ounce of gold. The dollar was said to be anchored by gold. As there was only so much metal, there could only be so many dollars.
 
 > The late John Exter, banker and monetary thinker, acidly described the modern-day Federal Reserve note as an "IOU nothing."
-
