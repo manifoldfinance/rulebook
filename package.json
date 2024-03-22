@@ -1,13 +1,14 @@
 {
-  "name": "manifold-venue-rulebook",
-  "version": "0.0.1",
+  "name": "@manifoldfinance/rulebook-spec",
+  "version": "0.0.2",
   "description": "Draft Rulebook and Specifications for Forward Contract Market for Blockspace and Transaction Inclusion",
   "files": [
-    "rulebook/*/**"
+    "src/*/**"
   ],
   "scripts": {
     "lint:md": "npx markdownlint \"**/*.md\" \".github/**/*.md\"",
-    "fix:md": "npx markdownlint \"**/*.md\" --ignore node_modules --fix"
+    "fix:md": "npx markdownlint \"**/*.md\" --ignore node_modules --fix",
+    "deploy": "mdbook build && npx gh-pages -d book/ "
   },
   "keywords": [
     "CFTC",
@@ -19,9 +20,10 @@
   "author": "SEE AUTHORS",
   "license": "SEE LICENSE IN LICENSE",
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "markdownlint": "^0.29.0",
     "markdownlint-cli": "^0.35.0",
     "markdownlint-rule-helpers": "^0.20.0",
-    "prettier": "^2.8.8"
+    "prettier": "^3.2.5"
   }
 }

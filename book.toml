@@ -1,0 +1,6 @@
+[book]
+authors = ["sam bacha"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rulebook"
