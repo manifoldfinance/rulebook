@@ -1,7 +1,17 @@
-# MEV Forward and Auction Market Rulebook
+---
+title: Rulebook  
+authority: auction platform
+refId: omnibus.rulebook
+revision: draft
+---
 
-> [!TIP] Licensed under Creative Commons Attribution-NonCommercial-NoDerivs 2.5
+## [MEV Forward Contract and Auction Market Rulebook](https://mevauction.com)
 
-> [!IMPORTANT] Subject to change and editorial review
+> [!IMPORTANT]   
+> Licensed under Creative Commons Attribution-NonCommercial-NoDerivs 2.5
 
-> [!NOTE] Version: 2024.02.05-draft
+> [!WARNING]   
+> Subject to change and editorial review
+
+> [!NOTE]   
+> Version: 2024.03.20-draft
