@@ -11,6 +11,6 @@ jobs:
       - uses: streetsidesoftware/cspell-action@v6
         id: spelling
         with:
-          config: 'cspell.json'
+          config: '.github/workflows/cspell.json'
           files: '**/*.md'
           incremental_files_only: true
