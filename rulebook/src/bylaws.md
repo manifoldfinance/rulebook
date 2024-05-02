@@ -8,24 +8,24 @@ authority: reference
 
 # Table of Contents
 
-- [ARTICLE I](#article-i)
-   * [CORPORATE OFFICES](#corporate-offices)
-   * [ARTICLE II](#article-ii)
-      + [MEETINGS OF STOCKHOLDERS](#meetings-of-stockholders)
-- [ARTICLE III](#article-iii)
-- [DIRECTORS](#directors)
-   * [ARTICLE IV](#article-iv)
-      + [COMMITTEES](#committees)
-   * [ARTICLE V](#article-v)
-      + [OFFICERS](#officers)
-   * [ARTICLE VI](#article-vi)
-      + [INDEMNIFICATION OF DIRECTORS, OFFICERS, EMPLOYEES, AND OTHER AGENTS](#indemnification-of-directors-officers-employees-and-other-agents)
-- [ARTICLE VII](#article-vii)
-- [RECORDS AND REPORTS](#records-and-reports)
-   * [ARTICLE VIII](#article-viii)
-      + [GENERAL MATTERS](#general-matters)
-   * [ARTICLE IX](#article-ix)
-      + [AMENDMENTS](#amendments)
+-   [ARTICLE I](#article-i)
+    -   [CORPORATE OFFICES](#corporate-offices)
+    -   [ARTICLE II](#article-ii)
+        -   [MEETINGS OF STOCKHOLDERS](#meetings-of-stockholders)
+-   [ARTICLE III](#article-iii)
+-   [DIRECTORS](#directors)
+    -   [ARTICLE IV](#article-iv)
+        -   [COMMITTEES](#committees)
+    -   [ARTICLE V](#article-v)
+        -   [OFFICERS](#officers)
+    -   [ARTICLE VI](#article-vi)
+        -   [INDEMNIFICATION OF DIRECTORS, OFFICERS, EMPLOYEES, AND OTHER AGENTS](#indemnification-of-directors-officers-employees-and-other-agents)
+-   [ARTICLE VII](#article-vii)
+-   [RECORDS AND REPORTS](#records-and-reports)
+    -   [ARTICLE VIII](#article-viii)
+        -   [GENERAL MATTERS](#general-matters)
+    -   [ARTICLE IX](#article-ix)
+        -   [AMENDMENTS](#amendments)
 
 <!-- TOC end -->
 
@@ -697,8 +697,7 @@ authority: reference
     power or authority to bind the corporation by any contract or engagement or to pledge its credit or to render it
     liable for any purpose or for any amount.
 
-**8.3.Stock Certificates and Notices; Uncertificated Stock; Partly Paid
-Shares**
+**8.3.Stock Certificates and Notices; Uncertificated Stock; Partly Paid Shares**
 
     The shares of the corporation may be certificated or uncertificated, as provided under Delaware law, and
     shall be entered in the books of the corporation and recorded as they are issued. Any or all of the signatures on any
@@ -847,9 +846,4 @@ Shares**
 
 ### AMENDMENTS
 
-The Bylaws of the corporation may be adopted, amended or repealed by the
-stockholders entitled to vote; provided, however, that the corporation
-may, in its certificate of incorporation, confer the power to adopt,
-amend or repeal Bylaws upon the directors. The fact that such power has
-been so conferred upon the directors shall not divest the stockholders
-of the power, nor limit their power to adopt, amend or repeal Bylaws.
+The Bylaws of the corporation may be adopted, amended or repealed by the stockholders entitled to vote; provided, however, that the corporation may, in its certificate of incorporation, confer the power to adopt, amend or repeal Bylaws upon the directors. The fact that such power has been so conferred upon the directors shall not divest the stockholders of the power, nor limit their power to adopt, amend or repeal Bylaws.

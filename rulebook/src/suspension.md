@@ -4,42 +4,36 @@
 
 # 600. Suspension and Disciplinary Proceedings
 
-- [600. Suspension and Disciplinary Proceedings](#600-suspension-and-disciplinary-proceedings)
-   * [601. **General**](#601-general)
-      + [B. **Notice of Suspension to Network and Clearing Participants** ](#b-notice-of-suspension-to-network-and-clearing-participants)
-      + [C. **Pending Transactions** ](#c-pending-transactions)
-      + [D. **Open Positions** ](#d-open-positions)
-      + [E. **Protective Action** ](#e-protective-action)
-      + [F. **Reimbursement of Costs and Expenses** ](#f-reimbursement-of-costs-and-expenses)
-   * [602. Right of Appeal](#602-right-of-appeal)
-   * [603. Sanctions from Disciplinary Proceedings](#603-sanctions-from-disciplinary-proceedings)
-   * [604. Procedures for Disciplinary Proceedings](#604-procedures-for-disciplinary-proceedings)
-   * [605. Discipline by Other Self-Regulatory Organizations](#605-discipline-by-other-self-regulatory-organizations)
-   * [606. Restriction on or Termination of Clearing Privileges.](#606-restriction-on-or-termination-of-clearing-privileges)
-
+-   [600. Suspension and Disciplinary Proceedings](#600-suspension-and-disciplinary-proceedings)
+    -   [601. **General**](#601-general)
+        -   [B. **Notice of Suspension to Network and Clearing Participants**](#b-notice-of-suspension-to-network-and-clearing-participants)
+        -   [C. **Pending Transactions**](#c-pending-transactions)
+        -   [D. **Open Positions**](#d-open-positions)
+        -   [E. **Protective Action**](#e-protective-action)
+        -   [F. **Reimbursement of Costs and Expenses**](#f-reimbursement-of-costs-and-expenses)
+    -   [602. Right of Appeal](#602-right-of-appeal)
+    -   [603. Sanctions from Disciplinary Proceedings](#603-sanctions-from-disciplinary-proceedings)
+    -   [604. Procedures for Disciplinary Proceedings](#604-procedures-for-disciplinary-proceedings)
+    -   [605. Discipline by Other Self-Regulatory Organizations](#605-discipline-by-other-self-regulatory-organizations)
+    -   [606. Restriction on or Termination of Clearing Privileges.](#606-restriction-on-or-termination-of-clearing-privileges)
 
 ## 601. **General**
 
 A. The Board, Risk Management Committee, or any Exchange Committee may summarily suspend any Clearing Participant
 
-(i) if the Clearing Participant is in Default,
-(ii) upon the discovery of a materially false or misleading representation or warranty made by the Clearing Participant to Manifold Finance under or in connection with any agreement between Manifold Finance and the Clearing Participant,
-(iii) if a breach by the Clearing Participant of the Rules or any of the terms or provisions of any agreement between Manifold Finance and the Clearing Participant is not remedied promptly after notice from Manifold Finance,
-(iv) in the event of a material violation of the Rules of the Exchange or of the  Clearinghouse, or
-(v) if the Board or the Risk Management Committee determines that suspension is necessary for the protection of Manifold Finance, other Clearing Participants, or the general public (whether or not such Clearing Participant continues to meet the required minimum financial requirements pursuant to the Rules).
+(i) if the Clearing Participant is in Default, (ii) upon the discovery of a materially false or misleading representation or warranty made by the Clearing Participant to Manifold Finance under or in connection with any agreement between Manifold Finance and the Clearing Participant, (iii) if a breach by the Clearing Participant of the Rules or any of the terms or provisions of any agreement between Manifold Finance and the Clearing Participant is not remedied promptly after notice from Manifold Finance, (iv) in the event of a material violation of the Rules of the Exchange or of the Clearinghouse, or (v) if the Board or the Risk Management Committee determines that suspension is necessary for the protection of Manifold Finance, other Clearing Participants, or the general public (whether or not such Clearing Participant continues to meet the required minimum financial requirements pursuant to the Rules).
 
-### B. **Notice of Suspension to Network and Clearing Participants** 
+### B. **Notice of Suspension to Network and Clearing Participants**
 
 Upon the suspension of a Clearing Participant, Manifold Finance shall as soon as possible notify all Clearing Participants of the suspension. Such notice shall state to the extent practicable in general terms how pending transactions, open positions and other pending matters will be affected and what steps are to be taken in connection therewith.
 
-### C. **Pending Transactions** 
+### C. **Pending Transactions**
 
 Notwithstanding any other provision of the Rules, Manifold Finance shall have no obligation to accept any transaction of a suspended Network and/or Clearing Participant that was effected after the time at which the Clearing Participant was suspended. In the event a transaction of a suspended Clearing Participant is rejected by Manifold Finance, Manifold Finance shall provide notice of such rejection to the other party thereto and such transaction shall be closed by the other party thereto in accordance with the rules of the Exchange.
 
-### D. **Open Positions** 
+### D. **Open Positions**
 
 Manifold Finance shall have the right to cause open positions in Contracts in any of the accounts of a suspended Clearing Participant:
-
 
     (i) To be closed in such manner as deemed practicable by Manifold Finance, in its sole discretion;
     (ii) To be transferred to the account of one or more other Clearing Participants;
@@ -49,15 +43,16 @@ Manifold Finance shall have the right to cause open positions in Contracts in an
 
     (v) Or take any other action with respect to open positions it deems in the best interest of the Clearinghouse or the Clearing Participants.
 
-
 In connection with any action undertaken by Manifold Finance pursuant to subparagraphs (i) through (iv) above, Manifold Finance shall have the right to apply the Margin of the applicable Clearing Participant and any other assets of such Clearing Participant held by, pledged to or otherwise available to Manifold Finance, including any guarantee issued pursuant to these Rules, to discharge the Obligations of such Clearing Participant to Manifold Finance (including any costs and expenses associated with the liquidation, transfer or management of Contracts held in or for the accounts of such Network and/or Clearing Participant, and any fees, assessments or fines imposed by Manifold Finance on such Clearing Participant).
 
 Manifold Finance may delegate to specified Officers or agents of Manifold Finance the authority to determine, within such guidelines, if any, as Manifold Finance shall prescribe, the nature and timing of transactions of the type described in subparagraph (i). Notwithstanding the preceding provisions of this paragraph (d), if Manifold Finance shall determine, taking into account the size and nature of a suspended Clearing Participant’s positions, market conditions prevailing at the time, the potential market effects of liquidating transactions that might be directed by Manifold Finance Clearing, and such other circumstances as Manifold Finance deems relevant, that the closing out of some or all of the suspended Network and/or Clearing Participant’s positions would not be in the best interests of Manifold Finance, other Clearing Participants, or the general public, such positions need not be closed out.
 
-### E. **Protective Action** 
+### E. **Protective Action**
+
 If Manifold Finance (i) is unable, for any reason, to close out in a prompt and orderly manner any positions or to convert to cash any Margin deposits of a suspended Network and/or Clearing Participant, or (ii) elects pursuant to paragraph (d) of this Rule not to close out any such positions, Manifold Finance may authorize the execution of hedging transactions from time to time for the account of Manifold Finance, solely for the purpose of reducing the risk to Manifold Finance resulting from the continued maintenance of such positions or the continued holding of such Margin deposits. Manifold Finance may delegate to specified Officers or agents of Manifold Finance the authority to determine, within such guidelines, if any, as Manifold Finance shall prescribe, the nature and timing of such hedging transactions.
 
-### F. **Reimbursement of Costs and Expenses** 
+### F. **Reimbursement of Costs and Expenses**
+
 Any costs or expenses, including losses, sustained by Manifold Finance in connection with transactions effected for its account pursuant to this Rule shall be charged to the suspended Clearing Participant, and any gains realized on such transactions shall be credited to such Clearing Participant; provided, however, that costs, expenses, and gains allocable to the hedging of positions in a Customer Account shall be charged or credited, as the case may be, to the Customer Account, and only the excess, if any, of such costs and expenses over the funds available in that account shall be charged to the Clearing Participant. Reasonable allocations of costs, expenses, and gains among accounts made by Manifold Finance for the purpose of implementing the proviso to the preceding sentence shall be binding on the Clearing Participant and any persons claiming through the Clearing Participant and their respective successors and assigns.
 
 ## 602. Right of Appeal
@@ -76,32 +71,29 @@ E. A record shall be kept of any hearing held pursuant hereto. The cost of the t
 
 ## 603. Sanctions from Disciplinary Proceedings
 
-A. Manifold Finance may censure, suspend, expel or limit the activities, functions or operations of, and/or impose a fine on (each a “sanction”), a Clearing Participant for 
+A. Manifold Finance may censure, suspend, expel or limit the activities, functions or operations of, and/or impose a fine on (each a “sanction”), a Clearing Participant for
 
-    (i) a violation of the Rules or its agreements with Manifold Finance or the Exchange, 
-    (ii) any neglect or refusal by such Clearing Participant to comply with any applicable order or direction of Manifold Finance or the Exchange, 
-    (iii) any error, delay or other conduct that materially and adversely affects the operations of Manifold Finance or Manifold Finance Exchange, 
-    (iv) a violation of the rules of the Exchange, or 
+    (i) a violation of the Rules or its agreements with Manifold Finance or the Exchange,
+    (ii) any neglect or refusal by such Clearing Participant to comply with any applicable order or direction of Manifold Finance or the Exchange,
+    (iii) any error, delay or other conduct that materially and adversely affects the operations of Manifold Finance or Manifold Finance Exchange,
+    (iv) a violation of the rules of the Exchange, or
     (v) a failure to provide adequate personnel or facilities, where applicable, for its transactions with Manifold Finance.
 
 B. Manifold Finance shall provide prompt notice to the CFTC of any action taken in accordance with this Rule 603.
 
 ## 604. Procedures for Disciplinary Proceedings
 
-A. Before any sanction is imposed pursuant to Rule 603, Manifold Finance shall furnish the person against whom the sanction is sought to be imposed (“Respondent”) with a concise written statement of the charges against the Respondent. The Respondent shall have ten Business Days after the service of such statement to file with Manifold Finance a written answer thereto. The answer shall admit or deny each allegation contained in the statement of charges and may also contain any defense which the Respondent wishes to submit. Allegations contained in the statement of charges which are not denied in the answer shall be deemed to have been admitted, and any defense not raised in the answer shall be deemed to have been waived. 
+A. Before any sanction is imposed pursuant to Rule 603, Manifold Finance shall furnish the person against whom the sanction is sought to be imposed (“Respondent”) with a concise written statement of the charges against the Respondent. The Respondent shall have ten Business Days after the service of such statement to file with Manifold Finance a written answer thereto. The answer shall admit or deny each allegation contained in the statement of charges and may also contain any defense which the Respondent wishes to submit. Allegations contained in the statement of charges which are not denied in the answer shall be deemed to have been admitted, and any defense not raised in the answer shall be deemed to have been waived.
 
-If an answer is not filed within the time prescribed above or any extension thereof granted pursuant to paragraph (d) of this Rule, the allegations contained in the statement of charges shall be deemed to have been admitted, and the sanction specified in the final request shall be imposed without further proceedings and the Respondent shall be notified thereof in writing. 
-If an answer is timely filed, Manifold Finance shall (unless the Respondent and Manifold Finance shall have stipulated to the imposition of an agreed sanction) schedule a hearing before the Disciplinary Panel. 
-The Respondent shall be given not less than three Business Days advance notice of the place and time of such hearing. 
-At the hearing, the Respondent shall be afforded the opportunity to be heard and to present evidence in its behalf and may be represented by counsel. A record of the hearing shall be prepared and the cost of the transcript may, in the discretion of the Disciplinary Panel, be charged in whole or in part to the Respondent in the event any sanction is imposed on the Respondent. As soon as practicable after the conclusion of the hearing, the Disciplinary Panel shall furnish the Respondent and the Board with a written statement of its decision. 
+If an answer is not filed within the time prescribed above or any extension thereof granted pursuant to paragraph (d) of this Rule, the allegations contained in the statement of charges shall be deemed to have been admitted, and the sanction specified in the final request shall be imposed without further proceedings and the Respondent shall be notified thereof in writing. If an answer is timely filed, Manifold Finance shall (unless the Respondent and Manifold Finance shall have stipulated to the imposition of an agreed sanction) schedule a hearing before the Disciplinary Panel. The Respondent shall be given not less than three Business Days advance notice of the place and time of such hearing. At the hearing, the Respondent shall be afforded the opportunity to be heard and to present evidence in its behalf and may be represented by counsel. A record of the hearing shall be prepared and the cost of the transcript may, in the discretion of the Disciplinary Panel, be charged in whole or in part to the Respondent in the event any sanction is imposed on the Respondent. As soon as practicable after the conclusion of the hearing, the Disciplinary Panel shall furnish the Respondent and the Board with a written statement of its decision.
 
 If the decision shall have been to impose a disciplinary sanction, the written statement shall set forth:
 
-    (i) any act or practice in which the Respondent has been found to have engaged, or which the Respondent has been found to have omitted;    
+    (i) any act or practice in which the Respondent has been found to have engaged, or which the Respondent has been found to have omitted;
 
-    (ii) the specific provisions of the Rules which any such act, practice or omission has been deemed to violate; and    
+    (ii) the specific provisions of the Rules which any such act, practice or omission has been deemed to violate; and
 
-    (iii) the sanction imposed and the reasons therefor.    
+    (iii) the sanction imposed and the reasons therefor.
 
 B. In the event that (i) the Disciplinary Panel censures, fines, suspends, expels or limits the activities, functions or operations of a Respondent, or (ii) determines not to impose any disciplinary measures on a Respondent, the Respondent, in the case of (i) above, or the President, in the case of (ii) above, may apply for review to the Board, by written motion filed with Manifold Finance within five Business Days after issuance of the Disciplinary Panel’s written statement of its decision.
 
@@ -123,18 +115,18 @@ A. At the discretion of the Clearinghouse, any suspected violation of these Rule
 
 B. Any inquiry, investigation or disciplinary action resulting from a suspected violation of these Rules may be handled by Clearinghouse personnel, Exchange personnel, or personnel that serve in roles at both the Clearinghouse and the Exchange.
 
-C. Nothing in this Chapter 6 shall affect the right of any Self-Regulatory Organization to discipline its members pursuant to the provisions of its rules for a violation of the Rules of Manifold Finance. 
+C. Nothing in this Chapter 6 shall affect the right of any Self-Regulatory Organization to discipline its members pursuant to the provisions of its rules for a violation of the Rules of Manifold Finance.
 
-## 606. Restriction on or Termination of Clearing Privileges.
+## 606. Restriction on or Termination of Clearing Privileges
 
 A. If [x] a Removal Event occurs with respect to a Clearing Participant, or Manifold Finance determines that the financial or operational condition of a Clearing Participant or one of its affiliates is such that to allow the Clearing Participant to continue its operation as a Clearing Participant could adversely affect Manifold Finance or cleared markets (whether or not such Clearing Participant continues to meet the required minimum financial requirements, if applicable), Manifold Finance may:
 
-- Allow such Clearing Participant (in the case of an FCM Clearing Participant handling Customer Accounts) to submit Contracts for clearing solely for its Member Property Account;
+-   Allow such Clearing Participant (in the case of an FCM Clearing Participant handling Customer Accounts) to submit Contracts for clearing solely for its Member Property Account;
 
-- Limit or restrict the type of Contracts that may be cleared by such Clearing Participant in any of its Accounts with Manifold Finance;
+-   Limit or restrict the type of Contracts that may be cleared by such Clearing Participant in any of its Accounts with Manifold Finance;
 
-- Limit or restrict the number of Contracts that are permitted to be maintained by such Clearing Participant in any of its Accounts with Manifold Finance;
+-   Limit or restrict the number of Contracts that are permitted to be maintained by such Clearing Participant in any of its Accounts with Manifold Finance;
 
-- Decline to accept new trades or positions in Contracts for the Accounts of the Clearing Participant;
+-   Decline to accept new trades or positions in Contracts for the Accounts of the Clearing Participant;
 
-- Increase such Clearing Participant’s Margin requirements and/or require such Clearing Participant to deposit the same in cash or Eligible Securities in proportions different than those that are applicable to Clearing Participants generally;
+-   Increase such Clearing Participant’s Margin requirements and/or require such Clearing Participant to deposit the same in cash or Eligible Securities in proportions different than those that are applicable to Clearing Participants generally;
