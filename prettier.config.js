@@ -1,6 +1,6 @@
 'use strict';
-// "schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/prettierrc.json",
-// "$schema": "http://json.schemastore.org/prettierrc",
+// "schema": "<https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/prettierrc.json>",
+// "$schema": "<http://json.schemastore.org/prettierrc>",
 module.exports = {
   arrowParens: 'always',
   bracketSpacing: true,

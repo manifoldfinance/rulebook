@@ -5,17 +5,17 @@
 # 600. Suspension and Disciplinary Proceedings
 
 - [600. Suspension and Disciplinary Proceedings](#600-suspension-and-disciplinary-proceedings)
-   * [601. **General**](#601-general)
-      + [B. **Notice of Suspension to Network and Clearing Participants** ](#b-notice-of-suspension-to-network-and-clearing-participants)
-      + [C. **Pending Transactions** ](#c-pending-transactions)
-      + [D. **Open Positions** ](#d-open-positions)
-      + [E. **Protective Action** ](#e-protective-action)
-      + [F. **Reimbursement of Costs and Expenses** ](#f-reimbursement-of-costs-and-expenses)
-   * [602. Right of Appeal](#602-right-of-appeal)
-   * [603. Sanctions from Disciplinary Proceedings](#603-sanctions-from-disciplinary-proceedings)
-   * [604. Procedures for Disciplinary Proceedings](#604-procedures-for-disciplinary-proceedings)
-   * [605. Discipline by Other Self-Regulatory Organizations](#605-discipline-by-other-self-regulatory-organizations)
-   * [606. Restriction on or Termination of Clearing Privileges.](#606-restriction-on-or-termination-of-clearing-privileges)
+   - [601. **General**](#601-general)
+      - [B. **Notice of Suspension to Network and Clearing Participants**](#b-notice-of-suspension-to-network-and-clearing-participants)
+      - [C. **Pending Transactions**](#c-pending-transactions)
+      - [D. **Open Positions**](#d-open-positions)
+      - [E. **Protective Action**](#e-protective-action)
+      - [F. **Reimbursement of Costs and Expenses**](#f-reimbursement-of-costs-and-expenses)
+   - [602. Right of Appeal](#602-right-of-appeal)
+   - [603. Sanctions from Disciplinary Proceedings](#603-sanctions-from-disciplinary-proceedings)
+   - [604. Procedures for Disciplinary Proceedings](#604-procedures-for-disciplinary-proceedings)
+   - [605. Discipline by Other Self-Regulatory Organizations](#605-discipline-by-other-self-regulatory-organizations)
+   - [606. Restriction on or Termination of Clearing Privileges.](#606-restriction-on-or-termination-of-clearing-privileges)
 
 
 ## 601. **General**
@@ -125,7 +125,7 @@ B. Any inquiry, investigation or disciplinary action resulting from a suspected 
 
 C. Nothing in this Chapter 6 shall affect the right of any Self-Regulatory Organization to discipline its members pursuant to the provisions of its rules for a violation of the Rules of Manifold Finance. 
 
-## 606. Restriction on or Termination of Clearing Privileges.
+## 606. Restriction on or Termination of Clearing Privileges
 
 A. If [x] a Removal Event occurs with respect to a Clearing Participant, or Manifold Finance determines that the financial or operational condition of a Clearing Participant or one of its affiliates is such that to allow the Clearing Participant to continue its operation as a Clearing Participant could adversely affect Manifold Finance or cleared markets (whether or not such Clearing Participant continues to meet the required minimum financial requirements, if applicable), Manifold Finance may:
 

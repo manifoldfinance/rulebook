@@ -12,8 +12,8 @@ Manifold Finance, Inc. does not provide advice on the interpretation or use of t
 
 
 - [Definitions](#definitions)
-   * [Preface](#preface)
-   * [NOTICE](#notice)
+   - [Preface](#preface)
+   - [NOTICE](#notice)
          - [Account](#account)
          - [Appeal Panel](#appeal-panel)
          - [Applicable Law](#applicable-law)
@@ -36,7 +36,7 @@ Manifold Finance, Inc. does not provide advice on the interpretation or use of t
          - [Direct Clearing Participant](#direct-clearing-participant)
          - [Directors](#directors)
          - [Disciplinary Panel](#disciplinary-panel)
-         - [Emergency ](#emergency)
+         - [Emergency](#emergency)
          - [Exchange](#exchange)
          - [Exchange Committee](#exchange-committee)
          - [FCM Clearing Participant](#fcm-clearing-participant)
@@ -47,13 +47,13 @@ Manifold Finance, Inc. does not provide advice on the interpretation or use of t
          - [Margin](#margin)
          - [Member Property Account](#member-property-account)
          - [Obligations](#obligations)
-         - [Officer ](#officer)
+         - [Officer](#officer)
          - [Person](#person)
          - [Removal Event](#removal-event)
          - [Rule](#rule)
          - [Self-Regulatory Organization](#self-regulatory-organization)
-         - [Settlement Price ](#settlement-price)
-         - [Transfer Trade ](#transfer-trade)
+         - [Settlement Price](#settlement-price)
+         - [Transfer Trade](#transfer-trade)
          - [UCC](#ucc)
          - [Business day](#business-day-1)
          - [Evidence of security](#evidence-of-security)
@@ -70,7 +70,7 @@ Manifold Finance, Inc. does not provide advice on the interpretation or use of t
          - [Approved Depository Institution](#approved-depository-institution-1)
          - [Authorized Representative](#authorized-representative-1)
          - [Board](#board-1)
-         - [Business Day ](#business-day-2)
+         - [Business Day](#business-day-2)
          - [CEA](#cea-1)
          - [CFTC Regulations](#cftc-regulations-1)
          - [Chain](#chain)
@@ -89,9 +89,9 @@ Manifold Finance, Inc. does not provide advice on the interpretation or use of t
          - [Digital Asset](#digital-asset)
          - [Disciplinary Panel](#disciplinary-panel-1)
          - [Manifold Finance, Inc.](#manifold-finance-inc)
-         - [Exchange    ](#exchange-1)
+         - [Exchange](#exchange-1)
          - [Exchange Committee](#exchange-committee-1)
-         - [EVM   ](#evm)
+         - [EVM](#evm)
          - [FCM Clearing Participant](#fcm-clearing-participant-1)
          - [Fungible Tokens](#fungible-tokens)
          - [Futures Commission Merchant](#futures-commission-merchant)
@@ -106,7 +106,7 @@ Manifold Finance, Inc. does not provide advice on the interpretation or use of t
          - [Non-Fungible Tokens](#non-fungible-tokens)
          - [Obligations](#obligations-1)
          - [Officer](#officer-1)
-         - [Person ](#person-1)
+         - [Person](#person-1)
          - [Protocol](#protocol)
          - [Regulations](#regulations)
          - [Removal Event](#removal-event-1)
@@ -123,8 +123,8 @@ Manifold Finance, Inc. does not provide advice on the interpretation or use of t
          - [Validator Deposit](#validator-deposit)
          - [Validator Rewards](#validator-rewards)
          - [Epoch](#epoch)
-   * [Imprint](#imprint)
-   * [Footnotes](#footnotes)
+   - [Imprint](#imprint)
+   - [Footnotes](#footnotes)
   
 <a name="preface"></a>
 ## Disclaimer
@@ -456,7 +456,7 @@ has the meaning set forth in Rule 408.
  means a panel comprised of individuals appointed by the Board at the recommendation of the Chief Compliance Officer to act in an adjudicative role and fulfill various adjudicative responsibilities and duties described in Chapter 6. _Emergency_ shall have the meaning set forth in Rule 207.
 
 <a name="manifold-finance-inc"></a>
-#### Manifold Finance, Inc.
+#### Manifold Finance, Inc
  means Manifold Finance & Clearing Corporation a Delaware C-Corporation. See [Imprint](#imprint)
 
 <a name="exchange-1"></a>
@@ -620,7 +620,7 @@ PMB 138571
 Wilmington, DE 19802-4447
 United States
 
-Email.: ops@manifoldfinance.com
+Email.: <ops@manifoldfinance.com>
 
 
 <a name="footnotes"></a>
